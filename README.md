@@ -15,7 +15,7 @@ Before running the application, make sure you have the following dependencies in
 - `tkinter` (usually comes pre-installed with Python)
 
 ## Installation
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/NotYourAnonOne/TaskManager.git`
 2. Change into the project directory: `cd src`
 3. Install the dependencies: `pip install -r requirements.txt`
 
